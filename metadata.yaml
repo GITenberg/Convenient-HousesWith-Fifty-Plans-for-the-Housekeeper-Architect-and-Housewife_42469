@@ -1,0 +1,27 @@
+_repo: Convenient-HousesWith-Fifty-Plans-for-the-Housekeeper-Architect-and-Housewife_42469
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42469-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Gibson, Louis H. (Louis Henry)
+    alias: Gibson, Louis Henry
+    birthdate: 1854
+    gutenberg_agent_id: '41704'
+    url: http://www.gutenberg.org/2009/agents/41704
+description: ''
+gutenberg_issued: '2013-04-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42469'
+  lccn: '04011676'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'NA'
+- !lcsh 'Architecture, Domestic'
+title: Convenient Houses, With Fifty Plans for the Housekeeper
+url: http://www.gutenberg.org/ebooks/42469
